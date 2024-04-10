@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307832211420",
+    "project_id": "firestoreapp-59ff3",
+    "storage_bucket": "firestoreapp-59ff3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307832211420:android:9fe49e325286bf6546f119",
+        "android_client_info": {
+          "package_name": "com.pebdev.firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxO5gUniSQVbilE0uut4WRI3tl0Oy9Th0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
