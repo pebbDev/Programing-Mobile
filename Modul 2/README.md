@@ -191,6 +191,5 @@ Langkah-langkah mengimplementasikan ListView sebagai berikut:
            dataPhoto = getResources().obtainTypedArray(R.array.data_photo);
        }
    }
-   ```
 
-9. Link modul : https://drive.google.com/file/d/1ngU27bxyKpSl2WLZMlDQThXxgs0_wOlI/view?usp=sharing
+Link modul : https://drive.google.com/file/d/1ngU27bxyKpSl2WLZMlDQThXxgs0_wOlI/view?usp=sharing
